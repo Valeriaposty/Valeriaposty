@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valeriaposty
-- :computer: :microscope:I’m interested in Bioinformatics and Computational biology 
-- 🌱 I’m currently learning Python language
+- :computer: :microscope:I'm a Data Scientist,specialized in Python and Natural Language Processing (NLP)
+- 🌱 I’m currently working with Python language
 - 💞️ I’m looking to collaborate on some python projects
 - 📫 How to reach me : valeria.postiglione.98@gmail.com
 
